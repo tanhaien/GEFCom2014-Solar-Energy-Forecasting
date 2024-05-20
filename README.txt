@@ -12,8 +12,7 @@ Moi task gom 3 file
 Train bao gom khoang 75% du lieu da duoc label - mapping voi data trong Predictors, con lai data trong Predictors chua dc label
 
 Nhiem vu 1: Split 25% data khong label ra file test.csv (output)
-Nhiem vu 2: Apply XGBoost nhu mr.Thang said la best => Xem output the nao?
-
+Nhiem vu 2: Apply XGBoost
 Cac truong hop nhu sau:
 - Apply tren tuong data trong moi task
 - Apply tren toan bo data cac task 
